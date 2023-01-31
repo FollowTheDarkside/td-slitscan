@@ -11,6 +11,7 @@ A repository for slitscan using [TouchDesigner](https://derivative.ca/).
 <br>
 Demo:
 - [SLIT ROTATE SCAN BBOY](https://youtu.be/QwIhThHvzsY)
+- [Slit Scan Frame Interpolation Typography](https://youtu.be/PGxdZTUGWsk)
 - [Slit Train Scan / スリットスキャン東海道本線](https://youtu.be/TPALyyCxkes)
 <br>
 <br>
